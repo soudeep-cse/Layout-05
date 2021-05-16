@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+}
+
+/* Start header section */
+
+.header {
+    background-color: rgb(252, 7, 7);
+    height: 100px;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+/* End header section */
+
+/* Start navigation scetion */
+
+.nav {
+    background-color: chartreuse;
+    height: 100px;
+}
+
+.nav h1 {
+    text-align: center;
+}
+
+/* End navigation scetion */
+
+/* Start content section */
+
+.content {
+    overflow: hidden;
+}
+
+/* ------------------- */
+
+.left-content {
+    background-color: darkblue;
+    width: 70%;
+    height: 400px;
+    float: left;
+}
+
+.first-section {
+    height: 50%;
+}
+
+.first-section h1 {
+    text-align: center;
+}
+
+.second-section {
+    background-color: cyan;
+    height: 50%;
+}
+
+.second-section h1 {
+    text-align: center;
+}
+
+/* --------------------- */
+
+.right-content {
+    background-color: rgb(233, 161, 7);
+    width: 30%;
+    height: 400px;
+    float: left;
+}
+
+.right-content h1 {
+    text-align: center;
+}
+
+/* End content section */
+
+/* Start footer section */
+
+.footer {
+    background-color: darkorchid;
+    height: 100px;
+}
+
+.footer h1 {
+    text-align: center;
+}
+
+/* End footer section */
